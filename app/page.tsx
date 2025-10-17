@@ -368,7 +368,7 @@ export default function Home() {
             <div>
               <h2 className="section-title">About Me</h2>
               <div style={{ display: 'flex', flexDirection: 'column', gap: '20px', color: '#d4d4d4', fontSize: '1.125rem', lineHeight: 1.75 }}>
-                <p>I'm Sandra Arias, a 19-year-old college student exploring the world. Currently based in Dubai.</p>
+                <p>I&apos;m Sandra Arias, a 19-year-old college student exploring the world. Currently based in Dubai.</p>
                 <p>Passionate about where technology can take us as humanity (it could be a bad ending if you ask me).</p>
                 <p>Very curious about everything. Always in search of adventure and discovery. Recently, fintech has become one of my strongest interests.</p>
                 <p>I like to see and appreciate art in even the smallest things.</p>
@@ -504,7 +504,7 @@ export default function Home() {
         {/* Contact */}
         <section id="contact" style={{ padding: '120px 32px', textAlign: 'center' }}>
           <div style={{ maxWidth: '800px', margin: '0 auto' }}>
-            <h2 style={{ fontSize: 'clamp(2.5rem, 5vw, 4rem)', fontWeight: 900, marginBottom: '32px' }}>Let's Connect</h2>
+            <h2 style={{ fontSize: 'clamp(2.5rem, 5vw, 4rem)', fontWeight: 900, marginBottom: '32px' }}>Let&apos;s Connect</h2>
             <p style={{ fontSize: '1.5rem', color: '#d4d4d4', marginBottom: '48px', lineHeight: 1.6 }}>
               Interested in working together or have a project in mind?
             </p>
